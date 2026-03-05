@@ -1,0 +1,1001 @@
+age,sex,bmi,children,smoker,region,exercise_level,occupation,health_score,insurance_cost
+56,male,23.8,1,no,southwest,moderate,self-employed,80.0,6822.51
+46,female,33.5,2,no,southwest,high,blue collar,65.0,6825.34
+32,female,20.2,4,no,northeast,moderate,blue collar,81.0,7685.83
+60,female,17.2,4,no,southwest,moderate,white collar,83.0,7766.86
+25,male,27.8,3,yes,northeast,moderate,unemployed,60.0,12341.79
+38,male,24.0,4,no,northeast,moderate,white collar,83.0,7294.55
+56,male,21.9,0,no,southwest,moderate,blue collar,84.0,5851.6
+36,male,28.8,4,no,southwest,low,blue collar,44.0,8771.53
+40,male,27.0,3,no,northwest,moderate,unemployed,74.0,7413.59
+28,male,23.7,5,no,northwest,high,self-employed,62.0,7813.99
+28,male,20.9,2,no,southeast,high,self-employed,90.0,6402.57
+41,male,29.5,2,no,southeast,low,unemployed,62.0,7318.08
+53,female,28.6,4,no,southwest,high,unemployed,50.0,7198.01
+57,female,25.6,1,no,northeast,moderate,white collar,70.0,7245.72
+41,male,33.4,2,no,southeast,moderate,unemployed,57.0,8096.43
+20,male,21.7,5,no,southwest,moderate,self-employed,83.0,6443.12
+39,female,19.9,4,yes,southeast,high,unemployed,58.0,16485.13
+19,male,23.2,3,no,northeast,high,white collar,70.0,7066.96
+41,male,25.8,5,no,southwest,moderate,white collar,93.0,6361.83
+61,male,27.0,4,no,northeast,high,white collar,86.0,8186.32
+47,female,25.0,5,no,southwest,low,white collar,77.0,8268.96
+55,female,27.4,2,no,southeast,moderate,professional,68.0,8281.06
+19,female,21.0,3,no,northwest,moderate,unemployed,76.0,5984.15
+38,female,31.8,4,no,southeast,moderate,blue collar,80.0,6574.9
+50,female,25.7,0,no,southeast,low,unemployed,55.0,7469.36
+29,male,30.5,3,no,northwest,high,professional,83.0,5665.43
+39,female,27.4,0,no,northwest,low,white collar,53.0,8148.11
+61,male,27.8,5,no,southwest,low,professional,79.0,9504.69
+42,male,28.3,1,no,southwest,moderate,self-employed,53.0,7379.87
+44,female,27.8,3,no,northeast,moderate,self-employed,99.0,7942.69
+59,female,28.6,5,no,northeast,high,unemployed,81.0,8492.19
+45,male,31.3,0,no,southeast,moderate,unemployed,47.0,6903.69
+33,male,26.8,2,no,northwest,low,blue collar,70.0,6476.8
+32,male,28.8,2,no,northeast,high,blue collar,62.0,5522.84
+64,female,25.6,1,yes,southeast,moderate,self-employed,60.0,17603.29
+61,female,31.8,3,no,northwest,low,white collar,72.0,7459.34
+20,female,23.3,3,no,southwest,moderate,professional,56.0,6352.63
+54,female,33.2,3,no,southeast,moderate,blue collar,81.0,8231.51
+24,female,25.8,5,yes,southwest,moderate,blue collar,81.0,14011.5
+38,male,20.3,1,no,northeast,moderate,white collar,75.0,6145.08
+26,female,26.5,3,no,northeast,high,white collar,70.0,5623.23
+56,male,23.3,5,yes,northwest,high,unemployed,80.0,15828.53
+35,male,29.4,2,no,southeast,moderate,professional,82.0,5945.58
+21,male,23.4,0,no,southwest,low,white collar,77.0,3890.87
+42,female,24.2,5,yes,northwest,high,blue collar,50.0,20334.27
+31,female,18.4,2,no,northeast,moderate,blue collar,58.0,6787.87
+26,female,24.2,2,no,northeast,moderate,self-employed,66.0,8420.03
+43,male,16.3,0,no,southeast,moderate,white collar,48.0,6538.41
+19,male,19.7,2,no,southwest,high,unemployed,73.0,4131.45
+37,male,29.0,1,yes,southeast,moderate,professional,91.0,11522.03
+45,male,29.1,0,yes,southwest,low,unemployed,89.0,13127.14
+64,male,27.7,2,yes,southwest,moderate,blue collar,81.0,16824.98
+24,male,22.1,4,yes,southeast,high,unemployed,81.0,16183.44
+61,female,25.8,5,no,northwest,low,blue collar,100.0,8457.06
+25,female,26.0,2,no,southeast,high,blue collar,83.0,4323.15
+64,female,21.4,1,no,southeast,moderate,blue collar,84.0,6783.8
+52,female,32.0,3,no,northeast,moderate,blue collar,48.0,8899.54
+31,male,29.5,2,yes,northeast,low,blue collar,90.0,14393.19
+34,male,25.1,3,no,southeast,low,self-employed,76.0,6793.89
+53,female,26.1,4,no,southeast,high,unemployed,69.0,6170.14
+57,male,26.8,2,no,northeast,low,self-employed,65.0,10411.51
+21,female,17.8,0,no,southwest,moderate,self-employed,62.0,5717.55
+19,female,25.0,3,no,southeast,moderate,white collar,89.0,4924.33
+23,female,23.3,4,no,northwest,low,white collar,70.0,7972.61
+59,male,22.0,0,no,northwest,low,white collar,62.0,8849.74
+21,female,24.9,0,no,northwest,moderate,professional,58.0,6271.25
+46,female,33.2,0,no,southeast,high,white collar,73.0,5950.67
+35,female,28.6,0,no,southwest,moderate,unemployed,65.0,5649.95
+43,male,23.7,2,no,southwest,moderate,self-employed,61.0,7764.17
+61,male,28.3,5,no,northeast,moderate,unemployed,49.0,10537.92
+51,female,31.6,2,no,southeast,moderate,white collar,84.0,6665.18
+27,male,29.7,2,no,southwest,moderate,professional,68.0,5666.23
+53,male,26.2,4,no,southeast,high,professional,54.0,8868.74
+31,male,23.4,4,no,northeast,moderate,self-employed,66.0,8967.54
+48,male,28.8,5,no,northeast,moderate,unemployed,78.0,8834.29
+32,male,27.6,4,yes,northeast,low,blue collar,70.0,16595.34
+25,male,29.6,1,no,northwest,high,unemployed,73.0,4503.71
+31,male,28.5,5,no,southeast,low,white collar,71.0,8534.24
+40,male,30.2,4,no,northeast,low,blue collar,51.0,10354.9
+57,male,23.9,5,yes,southeast,moderate,professional,84.0,16192.8
+38,male,31.3,2,no,northwest,moderate,self-employed,44.0,9786.36
+33,female,26.8,2,no,northwest,moderate,self-employed,77.0,7044.08
+62,female,34.3,5,no,northeast,moderate,professional,79.0,10977.75
+35,male,23.2,1,no,northeast,moderate,white collar,67.0,5787.01
+64,female,32.9,1,no,southwest,low,professional,75.0,8994.57
+41,female,26.8,5,no,southeast,high,white collar,66.0,8401.23
+43,male,23.4,4,no,northeast,moderate,blue collar,75.0,8580.35
+42,male,24.1,3,yes,southwest,moderate,professional,85.0,14397.15
+62,male,24.7,1,no,southeast,moderate,white collar,58.0,6526.41
+58,female,27.7,0,yes,northeast,low,blue collar,80.0,15999.38
+46,female,28.1,2,no,southwest,moderate,professional,95.0,4956.75
+32,male,23.7,5,no,southwest,moderate,self-employed,74.0,9043.66
+62,male,25.9,0,yes,southeast,moderate,professional,62.0,14026.37
+18,male,34.6,5,yes,southwest,moderate,unemployed,100.0,11963.22
+42,female,32.9,2,yes,southeast,high,professional,71.0,15031.5
+24,female,27.7,2,no,southeast,moderate,unemployed,73.0,6094.63
+26,female,26.2,1,no,southeast,high,blue collar,74.0,4426.85
+41,female,26.5,1,no,northwest,moderate,professional,77.0,7423.38
+18,male,28.5,0,yes,southwest,low,blue collar,65.0,13800.48
+61,male,21.9,5,yes,southeast,low,blue collar,73.0,17469.63
+25,male,25.0,2,yes,northeast,moderate,white collar,84.0,12864.09
+41,male,19.3,0,yes,northwest,low,blue collar,64.0,14113.96
+28,female,27.6,3,no,northwest,low,blue collar,64.0,7822.63
+34,female,28.6,0,no,southwest,high,professional,66.0,5748.4
+25,male,24.1,4,no,southeast,high,professional,54.0,7007.85
+52,male,32.3,0,yes,southwest,moderate,self-employed,60.0,14672.8
+52,female,21.1,4,no,northwest,low,white collar,59.0,9052.21
+50,male,20.1,4,no,southeast,low,blue collar,70.0,9456.71
+22,female,26.9,4,no,northeast,low,white collar,83.0,5752.94
+59,male,30.2,3,no,southeast,moderate,unemployed,92.0,7565.74
+56,male,32.7,0,yes,northwest,high,blue collar,71.0,15153.8
+58,male,24.2,0,no,northeast,moderate,white collar,77.0,5383.98
+45,male,30.3,3,no,southeast,low,self-employed,74.0,7831.0
+24,male,25.8,2,no,northeast,moderate,self-employed,39.0,9177.36
+26,male,25.3,1,no,northeast,moderate,blue collar,53.0,7966.22
+25,male,29.5,0,no,northwest,moderate,unemployed,81.0,3989.41
+29,female,28.6,1,no,northeast,moderate,self-employed,83.0,4452.11
+51,female,19.7,5,no,southwest,moderate,self-employed,83.0,7647.59
+50,female,31.9,5,no,northwest,low,unemployed,67.0,10718.59
+40,female,31.5,3,no,southwest,low,white collar,40.0,7303.57
+41,female,23.5,5,no,northeast,high,self-employed,55.0,11382.28
+54,male,27.6,5,no,southwest,low,professional,57.0,10934.44
+52,male,28.0,2,yes,southeast,low,self-employed,79.0,16050.88
+61,female,27.0,2,no,northeast,low,white collar,65.0,7873.85
+57,male,23.8,2,no,southeast,low,white collar,95.0,6234.26
+39,female,23.3,5,no,southwest,moderate,blue collar,92.0,7374.71
+44,female,25.9,3,no,southeast,high,professional,95.0,6118.21
+52,male,30.7,4,no,northeast,moderate,white collar,56.0,10964.84
+18,male,28.2,4,yes,southeast,moderate,unemployed,77.0,13587.16
+52,male,24.5,1,no,southwest,moderate,professional,63.0,6219.9
+54,female,29.1,4,yes,southwest,moderate,professional,75.0,13764.19
+64,male,15.0,4,no,southwest,high,unemployed,58.0,7407.21
+31,female,30.6,2,yes,northeast,high,self-employed,88.0,14652.05
+20,female,19.0,2,no,southwest,low,unemployed,58.0,6054.69
+18,female,24.6,5,no,northeast,moderate,unemployed,41.0,8778.57
+22,male,21.5,1,no,southeast,moderate,self-employed,100.0,4258.32
+43,male,20.8,0,no,southwest,high,self-employed,77.0,5245.0
+31,female,30.6,1,no,southeast,moderate,self-employed,54.0,7822.77
+56,male,24.1,1,no,northwest,high,self-employed,68.0,6029.55
+44,male,27.4,3,no,southeast,moderate,self-employed,61.0,7864.64
+26,male,25.8,5,yes,northwest,low,unemployed,70.0,17150.52
+32,female,27.9,3,no,southeast,moderate,blue collar,82.0,5550.49
+32,female,26.3,1,yes,northeast,high,blue collar,80.0,13924.85
+43,male,20.9,1,no,southeast,high,white collar,74.0,5105.86
+59,female,30.0,1,no,northeast,low,blue collar,70.0,7396.72
+30,male,24.0,4,no,northeast,moderate,blue collar,86.0,7190.95
+49,male,19.8,3,no,southwest,moderate,unemployed,41.0,7675.49
+56,male,24.3,1,no,northeast,low,self-employed,59.0,9617.02
+49,male,32.0,2,yes,northwest,moderate,self-employed,55.0,17580.36
+21,female,29.4,5,no,southwest,low,unemployed,85.0,7204.12
+47,female,24.6,5,no,southwest,high,blue collar,59.0,8881.09
+54,female,24.6,2,no,southeast,moderate,unemployed,51.0,7189.06
+40,male,24.7,5,no,northeast,high,white collar,78.0,9030.56
+56,male,34.3,4,no,northeast,low,self-employed,56.0,10330.11
+62,male,27.5,4,no,northwest,moderate,professional,65.0,9333.07
+32,female,27.7,0,no,southeast,low,white collar,100.0,4054.24
+60,male,30.1,0,no,southeast,low,white collar,82.0,4888.28
+46,female,27.0,0,no,southwest,low,unemployed,67.0,6921.0
+53,female,25.0,5,yes,southwest,low,blue collar,68.0,15087.74
+30,female,25.2,4,no,southwest,moderate,self-employed,84.0,6872.4
+49,female,25.7,4,no,northwest,low,professional,80.0,8591.2
+24,female,25.9,4,no,northwest,moderate,white collar,71.0,7020.6
+39,female,28.9,2,yes,southwest,moderate,professional,72.0,15698.25
+45,male,26.2,4,no,southeast,high,blue collar,48.0,7265.3
+19,male,28.9,2,no,northwest,high,blue collar,45.0,7509.22
+59,female,25.7,0,no,southeast,moderate,professional,67.0,7348.92
+62,female,26.3,0,no,southeast,moderate,self-employed,61.0,8768.23
+23,male,18.0,5,yes,northeast,low,blue collar,79.0,13036.03
+45,female,29.7,0,no,southwest,high,professional,73.0,4692.09
+45,female,27.4,5,no,northeast,low,white collar,58.0,9126.46
+61,male,30.0,1,no,southwest,low,professional,72.0,6349.79
+61,female,15.0,1,no,southwest,low,professional,64.0,6351.92
+37,female,34.4,3,yes,southeast,moderate,unemployed,100.0,13585.34
+47,female,25.4,5,no,southwest,low,blue collar,76.0,8545.47
+28,male,30.4,3,yes,southeast,moderate,self-employed,47.0,21156.71
+45,male,21.8,3,no,southeast,low,self-employed,97.0,7384.07
+42,male,28.5,1,no,southwest,moderate,unemployed,61.0,7580.21
+56,female,21.8,5,no,southeast,low,self-employed,55.0,10602.98
+50,female,23.5,1,no,southeast,low,professional,100.0,5702.17
+18,male,33.7,3,no,southeast,high,unemployed,75.0,5902.46
+44,female,25.2,5,no,northwest,low,white collar,81.0,10463.58
+30,female,26.9,3,no,southeast,high,blue collar,81.0,5355.79
+58,female,29.5,4,no,northwest,moderate,blue collar,67.0,8646.77
+20,female,28.0,5,no,northwest,low,blue collar,61.0,8907.15
+56,female,26.6,5,yes,southeast,high,professional,64.0,17352.7
+23,male,27.5,3,no,southeast,low,white collar,94.0,4835.8
+25,female,35.6,4,no,northwest,high,unemployed,73.0,8571.01
+44,male,25.8,2,no,northwest,low,unemployed,90.0,6274.08
+26,female,26.8,1,no,southeast,high,blue collar,69.0,5125.18
+54,male,30.2,3,no,southeast,low,white collar,59.0,8583.46
+50,female,30.4,5,yes,southwest,moderate,white collar,48.0,14531.42
+59,male,30.7,1,no,northwest,moderate,white collar,80.0,5876.32
+61,female,28.6,1,no,northwest,high,self-employed,95.0,7649.96
+41,male,21.4,1,no,southwest,high,self-employed,57.0,6805.82
+32,female,32.5,2,yes,northwest,high,blue collar,78.0,14307.22
+49,male,21.4,0,no,northeast,high,white collar,49.0,8244.83
+49,female,27.2,3,no,northwest,low,white collar,62.0,8375.75
+41,male,23.0,0,no,southwest,low,unemployed,74.0,5335.5
+58,male,25.7,0,yes,northeast,low,unemployed,44.0,17760.61
+29,female,27.3,0,no,southeast,moderate,blue collar,70.0,4747.88
+56,female,27.3,1,no,southwest,moderate,white collar,57.0,8234.15
+19,male,27.7,4,no,southwest,moderate,blue collar,79.0,6634.09
+20,female,32.5,1,no,southeast,low,unemployed,68.0,6743.29
+54,male,27.8,1,no,southwest,moderate,unemployed,84.0,5492.7
+34,male,25.0,5,no,northwest,low,self-employed,66.0,10798.63
+19,male,29.9,5,yes,southeast,moderate,blue collar,50.0,16939.32
+19,female,30.8,0,no,southwest,moderate,blue collar,48.0,5039.96
+45,male,21.1,1,no,southeast,moderate,white collar,41.0,5626.91
+40,male,28.4,0,no,southeast,moderate,white collar,79.0,4554.98
+54,female,28.8,5,yes,southeast,moderate,self-employed,100.0,16570.68
+49,female,24.8,4,yes,northeast,low,professional,77.0,17221.62
+50,female,31.5,3,no,southwest,moderate,professional,95.0,6710.12
+18,female,25.4,0,no,northeast,low,professional,87.0,4427.69
+36,male,26.5,4,no,southwest,moderate,blue collar,62.0,7701.73
+19,male,25.3,3,no,northwest,moderate,blue collar,89.0,6177.48
+61,male,26.1,2,no,northwest,low,unemployed,63.0,7279.15
+43,male,21.6,0,no,northwest,low,blue collar,63.0,6982.44
+49,female,20.2,0,no,southwest,high,blue collar,67.0,5414.58
+23,male,32.4,2,no,southeast,high,blue collar,68.0,5483.36
+49,male,22.6,2,no,southeast,moderate,self-employed,80.0,8214.53
+21,female,22.0,0,yes,northeast,low,blue collar,60.0,12488.18
+28,male,17.4,2,no,northeast,low,white collar,83.0,5768.38
+34,male,23.4,1,no,northwest,moderate,white collar,83.0,6517.38
+55,male,20.7,3,no,northeast,high,unemployed,75.0,8236.94
+41,male,32.6,3,no,southwest,low,self-employed,99.0,6891.51
+22,male,30.0,3,no,southwest,moderate,white collar,89.0,4861.95
+51,male,23.2,1,no,northeast,low,self-employed,86.0,6448.01
+23,female,35.0,2,no,northeast,high,self-employed,71.0,8701.5
+39,female,29.9,4,no,northeast,moderate,unemployed,75.0,8368.63
+28,male,24.7,2,no,northeast,moderate,self-employed,78.0,7373.76
+33,male,16.0,0,no,northwest,moderate,blue collar,70.0,6208.18
+50,female,35.2,5,yes,northwest,moderate,self-employed,64.0,17749.81
+26,male,20.4,3,yes,northeast,low,unemployed,34.0,14114.99
+23,male,19.4,2,no,southwest,low,unemployed,81.0,5491.48
+33,male,30.1,4,no,northwest,high,unemployed,86.0,7044.9
+46,female,35.8,0,no,southwest,high,white collar,53.0,8600.82
+20,male,31.5,1,no,southeast,high,blue collar,79.0,4556.59
+37,female,28.3,1,no,southwest,moderate,white collar,61.0,5985.01
+53,male,28.4,4,no,northeast,high,professional,65.0,8589.45
+36,female,29.4,0,no,southeast,low,blue collar,90.0,4908.54
+43,female,29.0,3,no,northwest,moderate,self-employed,55.0,9037.66
+20,male,27.1,2,no,northwest,moderate,unemployed,55.0,6615.26
+36,female,26.4,0,no,southeast,moderate,professional,97.0,4494.89
+37,male,25.7,1,no,southwest,moderate,blue collar,68.0,5671.37
+49,female,23.0,4,no,northwest,low,white collar,89.0,8657.28
+24,male,24.9,4,yes,northeast,moderate,unemployed,46.0,17331.94
+58,male,19.2,2,no,southeast,high,white collar,47.0,6636.04
+50,female,25.6,4,no,northeast,moderate,blue collar,56.0,8820.72
+57,male,22.0,4,no,southeast,low,blue collar,63.0,7178.09
+56,male,21.6,0,no,northwest,low,professional,49.0,8087.74
+35,female,26.7,3,no,southwest,low,self-employed,76.0,7173.78
+57,male,31.6,2,no,southeast,low,white collar,77.0,8039.46
+18,male,29.7,0,no,southeast,moderate,professional,57.0,4787.47
+28,female,19.7,3,no,northeast,moderate,unemployed,58.0,7686.92
+45,female,22.0,0,yes,northwest,moderate,self-employed,60.0,16540.25
+42,male,29.8,5,yes,northeast,moderate,professional,53.0,18103.95
+40,male,22.1,0,no,northwest,high,white collar,27.0,8633.6
+48,female,25.1,4,no,northeast,low,blue collar,69.0,10559.75
+47,female,28.2,3,no,southeast,moderate,unemployed,64.0,7634.52
+59,male,22.1,2,yes,northeast,high,white collar,65.0,16440.18
+52,female,26.4,2,no,southwest,low,self-employed,55.0,8162.15
+24,male,20.7,3,yes,northwest,low,self-employed,82.0,13650.32
+33,male,23.6,4,no,northwest,high,blue collar,100.0,6565.13
+43,male,27.3,1,no,southeast,moderate,blue collar,57.0,7522.05
+19,male,19.6,0,no,northwest,moderate,unemployed,91.0,3408.74
+18,male,27.8,4,yes,southwest,low,unemployed,75.0,12385.79
+29,female,25.9,5,no,northeast,moderate,blue collar,71.0,7481.01
+22,female,28.2,3,no,southeast,moderate,blue collar,65.0,6358.81
+54,female,26.9,0,no,southwest,low,self-employed,69.0,7049.29
+49,female,31.5,2,no,northwest,moderate,blue collar,87.0,7112.36
+26,male,26.5,1,no,northwest,low,professional,53.0,7696.53
+58,male,24.3,5,no,southwest,moderate,white collar,66.0,9415.89
+52,male,26.5,2,no,northeast,low,blue collar,89.0,7322.6
+36,male,28.2,3,no,northeast,low,unemployed,85.0,5019.73
+33,female,26.2,0,no,southeast,low,professional,53.0,5367.1
+20,male,26.2,3,no,northwest,low,unemployed,67.0,6212.39
+37,male,23.2,0,no,southwest,high,professional,81.0,4403.24
+41,female,23.3,4,yes,northeast,low,blue collar,80.0,17181.13
+50,female,20.4,1,yes,southeast,moderate,white collar,85.0,12450.3
+41,female,33.0,4,no,northwest,low,unemployed,76.0,9013.55
+28,female,21.0,4,no,northwest,moderate,professional,78.0,6634.72
+25,male,23.2,3,no,southeast,high,self-employed,75.0,5807.42
+53,male,23.1,1,no,southeast,low,blue collar,94.0,5086.19
+55,female,29.6,0,no,northeast,high,white collar,64.0,8151.75
+57,male,24.8,0,no,southwest,low,blue collar,71.0,6067.14
+37,male,31.0,5,no,northwest,moderate,self-employed,55.0,10904.81
+52,male,23.3,2,yes,southwest,moderate,white collar,52.0,13422.46
+42,female,27.1,5,no,northwest,high,self-employed,75.0,10219.94
+52,male,22.7,5,yes,northwest,moderate,blue collar,59.0,18369.55
+42,female,34.6,0,yes,southwest,moderate,professional,69.0,15174.67
+46,male,21.2,3,no,southeast,low,blue collar,94.0,6664.85
+35,male,27.2,4,no,northeast,low,blue collar,93.0,7261.56
+63,male,28.5,4,no,northwest,high,blue collar,100.0,8052.76
+35,female,27.7,4,no,southeast,moderate,unemployed,95.0,5546.53
+19,male,25.3,1,no,northwest,moderate,self-employed,100.0,4531.07
+52,female,25.5,0,no,northeast,moderate,self-employed,77.0,7185.2
+33,female,26.2,3,yes,northwest,moderate,self-employed,56.0,17896.42
+58,female,25.4,1,no,northeast,high,unemployed,55.0,7698.34
+53,male,29.9,2,no,northeast,moderate,professional,91.0,7326.25
+50,male,34.8,3,no,northwest,moderate,blue collar,71.0,9566.67
+21,male,23.8,5,yes,northwest,high,professional,72.0,15016.93
+50,male,20.5,3,no,northeast,low,unemployed,62.0,7014.9
+31,female,25.6,3,no,southeast,low,self-employed,64.0,7549.7
+38,female,36.3,4,no,southwest,moderate,blue collar,76.0,9934.41
+37,female,22.8,3,no,northeast,low,white collar,54.0,8530.55
+25,male,32.6,5,no,northwest,moderate,white collar,74.0,7460.28
+24,female,32.7,5,no,northwest,high,professional,93.0,7165.21
+20,male,23.8,0,no,southeast,moderate,self-employed,38.0,7473.65
+34,female,28.3,3,no,southwest,moderate,white collar,47.0,7254.72
+50,male,32.5,4,no,northeast,high,professional,80.0,9437.72
+29,male,24.5,3,no,northeast,moderate,unemployed,90.0,6139.98
+39,female,25.2,2,no,southwest,moderate,professional,63.0,6230.06
+39,female,23.7,2,no,northeast,moderate,professional,40.0,9390.76
+63,female,21.9,4,no,southwest,high,professional,91.0,7192.79
+47,female,23.4,0,no,northwest,moderate,blue collar,58.0,6923.71
+55,male,21.1,0,no,southwest,moderate,professional,65.0,6019.3
+55,female,26.1,5,no,northeast,high,professional,75.0,9461.99
+62,female,22.9,5,no,southwest,moderate,blue collar,60.0,9555.6
+25,female,26.9,1,no,southeast,moderate,blue collar,57.0,6404.25
+44,male,19.8,4,no,northwest,high,unemployed,57.0,7984.42
+44,male,27.3,3,no,northwest,moderate,self-employed,98.0,6720.91
+51,female,29.3,4,no,southwest,moderate,white collar,87.0,6570.03
+38,male,18.0,1,no,northeast,high,white collar,79.0,5769.8
+47,female,27.5,5,no,southeast,moderate,professional,37.0,9506.04
+50,male,30.9,4,no,northwest,moderate,unemployed,79.0,7964.87
+45,male,21.2,4,no,northwest,high,professional,78.0,7348.22
+64,male,32.7,5,yes,northeast,high,white collar,51.0,19616.92
+50,male,27.7,1,no,northeast,moderate,blue collar,74.0,5702.64
+22,female,23.2,5,no,southeast,low,self-employed,86.0,7582.8
+36,female,25.8,0,no,southwest,moderate,unemployed,79.0,5572.39
+21,female,28.2,3,no,northeast,moderate,blue collar,60.0,8033.76
+52,male,26.3,5,no,southwest,moderate,self-employed,70.0,8914.18
+34,female,28.2,1,yes,southeast,moderate,unemployed,81.0,13695.46
+61,female,22.3,2,no,southwest,moderate,unemployed,71.0,7622.42
+45,female,26.7,0,no,northwest,moderate,white collar,89.0,5964.08
+47,male,20.3,2,no,southwest,low,blue collar,76.0,5130.57
+46,male,25.6,5,no,southeast,moderate,unemployed,81.0,8501.34
+63,male,22.4,0,no,southeast,moderate,unemployed,82.0,5790.83
+23,female,23.1,3,yes,southeast,low,self-employed,54.0,14857.12
+52,female,30.9,5,no,southwest,low,white collar,71.0,8148.5
+58,female,30.4,3,no,northwest,moderate,professional,65.0,7769.18
+54,male,28.4,4,yes,northeast,moderate,white collar,86.0,14829.69
+41,male,21.6,2,no,northwest,low,professional,77.0,6333.39
+46,female,24.7,0,no,southwest,high,blue collar,67.0,5853.62
+63,male,30.9,3,no,southwest,moderate,blue collar,51.0,9933.36
+48,male,26.6,1,no,northeast,high,unemployed,46.0,7502.44
+52,male,35.3,3,yes,southwest,moderate,blue collar,75.0,18986.04
+50,male,27.6,1,yes,southeast,moderate,unemployed,59.0,14130.11
+38,female,26.8,5,no,southeast,high,white collar,80.0,6783.8
+49,male,24.8,0,no,southeast,moderate,blue collar,45.0,6954.75
+40,male,26.5,3,no,southeast,moderate,white collar,94.0,6041.21
+50,male,25.4,3,no,southeast,low,white collar,80.0,7596.7
+20,male,28.8,0,no,southwest,moderate,blue collar,71.0,4775.39
+35,female,29.8,3,no,northeast,low,white collar,95.0,6024.29
+42,female,22.9,1,no,northeast,low,blue collar,84.0,5368.81
+59,male,20.7,3,no,southeast,low,blue collar,63.0,8325.28
+48,male,18.7,2,no,southwest,low,blue collar,71.0,8206.87
+20,male,28.0,5,yes,northwest,high,professional,41.0,18557.31
+57,male,21.6,4,no,northwest,low,white collar,86.0,8389.65
+63,male,17.4,1,no,southwest,moderate,self-employed,66.0,7932.83
+41,male,27.6,2,no,southeast,high,blue collar,40.0,7839.31
+49,female,36.0,5,no,northeast,moderate,white collar,52.0,10533.9
+64,male,26.0,0,no,southwest,low,unemployed,83.0,6883.73
+39,female,29.4,1,no,northwest,moderate,blue collar,94.0,4901.15
+40,female,26.3,4,yes,northwest,moderate,blue collar,70.0,17587.11
+19,male,25.6,5,yes,northwest,moderate,self-employed,55.0,16195.06
+44,female,29.7,4,no,southeast,moderate,professional,49.0,10132.23
+59,female,24.8,0,yes,northwest,high,professional,91.0,14388.95
+19,female,27.1,0,no,southwest,moderate,blue collar,77.0,3885.26
+43,female,27.3,1,no,southwest,moderate,white collar,65.0,6105.13
+34,female,23.3,3,no,northwest,moderate,unemployed,61.0,8087.29
+57,female,30.0,0,no,southwest,low,unemployed,80.0,5653.01
+50,male,25.3,5,no,northwest,high,white collar,80.0,8117.93
+26,female,23.0,3,no,northwest,low,blue collar,57.0,7352.47
+60,female,28.1,2,no,northeast,moderate,unemployed,53.0,10289.23
+56,female,22.4,4,yes,southeast,high,professional,54.0,20282.82
+46,male,26.1,3,no,southeast,moderate,white collar,63.0,8654.66
+59,female,26.0,4,no,northeast,moderate,self-employed,60.0,10221.27
+43,male,30.3,3,no,northeast,moderate,blue collar,94.0,6343.78
+52,female,27.9,2,no,southeast,high,white collar,62.0,6546.79
+42,male,25.9,0,yes,northwest,moderate,unemployed,51.0,17245.9
+41,male,29.3,2,no,northwest,high,blue collar,52.0,8471.31
+30,female,31.6,0,no,southeast,low,professional,67.0,6444.53
+24,female,28.2,0,no,northwest,moderate,blue collar,43.0,6483.8
+53,male,26.0,4,no,northeast,high,blue collar,69.0,7005.79
+62,female,20.8,5,no,northwest,low,professional,50.0,9319.25
+37,male,21.7,2,yes,northwest,moderate,professional,87.0,14281.84
+18,male,24.8,3,no,southwest,low,blue collar,72.0,5781.17
+25,male,23.6,2,yes,southwest,moderate,professional,100.0,11656.06
+63,male,25.3,4,no,southwest,moderate,white collar,67.0,9000.28
+33,male,26.2,0,no,northwest,moderate,professional,23.0,9031.2
+31,female,28.1,4,no,southeast,low,professional,92.0,5904.72
+29,male,25.7,1,no,northeast,low,blue collar,78.0,5086.22
+40,male,27.9,1,yes,northwest,low,white collar,80.0,13144.77
+32,female,26.3,3,no,southeast,moderate,self-employed,55.0,7388.73
+45,male,18.1,4,yes,northwest,moderate,self-employed,69.0,18219.67
+51,female,22.2,3,no,northeast,high,unemployed,73.0,7496.92
+19,female,25.4,3,no,northwest,moderate,professional,66.0,8138.14
+49,female,21.2,1,no,northeast,moderate,professional,44.0,9070.81
+40,male,28.4,3,no,northwest,high,white collar,100.0,6615.76
+39,male,32.1,1,yes,northeast,moderate,self-employed,83.0,12997.34
+42,male,30.9,0,yes,northwest,high,unemployed,76.0,9162.62
+39,female,25.1,4,yes,northeast,moderate,white collar,90.0,15210.84
+39,male,32.0,3,no,southwest,low,professional,80.0,7339.33
+59,female,26.6,1,no,northwest,low,self-employed,60.0,8938.88
+23,male,24.7,2,no,northwest,moderate,unemployed,89.0,5148.86
+32,female,23.5,3,no,southeast,low,blue collar,83.0,5547.48
+60,male,24.8,5,no,southeast,moderate,self-employed,60.0,10985.71
+54,male,24.4,0,no,northeast,moderate,unemployed,82.0,6441.72
+50,male,26.7,0,no,northwest,moderate,white collar,66.0,5808.17
+25,female,26.6,2,no,northeast,moderate,blue collar,73.0,5980.75
+61,female,26.0,1,no,southwest,low,unemployed,79.0,6504.45
+61,male,27.7,3,yes,southeast,moderate,unemployed,91.0,13900.49
+22,male,30.8,1,no,northeast,moderate,professional,60.0,5709.92
+56,female,29.8,0,no,northeast,high,self-employed,75.0,7158.94
+21,female,20.1,1,no,southeast,moderate,professional,100.0,3847.8
+23,female,15.8,0,yes,northwest,high,blue collar,67.0,12300.66
+62,male,29.7,1,no,northeast,moderate,unemployed,73.0,6548.27
+49,female,20.5,2,no,southeast,moderate,professional,100.0,5881.96
+47,male,25.1,4,yes,northwest,low,self-employed,80.0,15649.39
+64,female,21.3,2,no,southwest,moderate,blue collar,48.0,8624.81
+52,male,18.8,2,no,southeast,moderate,white collar,58.0,7268.58
+57,female,28.2,4,yes,northeast,moderate,professional,80.0,18611.65
+33,female,29.0,4,yes,southwest,moderate,blue collar,76.0,13871.46
+30,female,23.7,3,no,northwest,moderate,white collar,72.0,7973.36
+59,female,15.6,3,no,northwest,moderate,professional,100.0,7687.9
+47,female,23.8,2,no,southeast,moderate,blue collar,61.0,8747.47
+36,male,27.6,2,no,southeast,low,blue collar,69.0,7091.98
+34,female,20.1,0,yes,southeast,high,professional,41.0,14228.38
+36,female,26.7,0,no,northwest,low,blue collar,87.0,4768.38
+45,female,25.9,3,no,southwest,low,unemployed,58.0,7667.45
+43,male,28.3,5,yes,northwest,moderate,professional,86.0,18437.09
+54,female,26.5,5,no,northeast,moderate,blue collar,84.0,8558.77
+43,male,22.1,3,no,northwest,moderate,white collar,100.0,6449.86
+40,female,30.8,0,no,northeast,low,white collar,80.0,5879.22
+26,female,25.4,0,yes,southwest,moderate,unemployed,65.0,13273.31
+29,male,25.9,5,no,southeast,moderate,professional,77.0,7510.36
+18,female,22.3,1,no,southeast,high,blue collar,59.0,5510.05
+18,male,24.2,1,no,northwest,high,blue collar,75.0,4547.02
+64,male,22.5,0,yes,southeast,moderate,white collar,67.0,14344.52
+51,female,25.3,1,no,southwest,moderate,unemployed,69.0,6701.05
+49,male,32.8,4,no,southeast,moderate,white collar,57.0,9208.12
+42,female,20.5,3,no,northwest,low,white collar,75.0,7106.4
+57,female,19.5,3,no,southwest,moderate,unemployed,82.0,7447.87
+62,male,31.9,0,no,northeast,moderate,professional,45.0,8241.37
+18,male,25.2,2,no,northwest,high,blue collar,60.0,5441.74
+33,male,23.3,5,no,northeast,low,professional,73.0,8647.79
+56,male,30.2,0,no,southwest,moderate,self-employed,35.0,7912.56
+22,female,23.6,1,no,northwest,moderate,self-employed,96.0,5345.66
+39,female,33.3,5,no,northwest,moderate,self-employed,59.0,8495.86
+46,male,28.7,2,no,southwest,low,unemployed,56.0,7049.01
+20,female,24.0,1,no,southeast,high,white collar,67.0,4594.4
+29,female,34.6,4,no,northwest,moderate,professional,72.0,7109.18
+43,female,23.6,1,yes,northwest,moderate,blue collar,59.0,14729.81
+33,female,29.0,4,no,northeast,low,self-employed,85.0,8948.02
+54,male,27.2,5,no,southeast,moderate,professional,76.0,7507.53
+39,male,31.2,4,no,northeast,moderate,self-employed,57.0,9403.61
+46,female,32.2,5,no,northeast,low,self-employed,62.0,12568.64
+31,male,26.1,5,no,southeast,low,blue collar,47.0,8044.33
+45,male,23.0,5,no,southeast,high,unemployed,51.0,10029.56
+22,male,27.8,5,no,southwest,low,white collar,76.0,6707.49
+64,female,23.3,5,no,southeast,low,unemployed,58.0,10000.89
+47,female,34.1,1,no,northwest,moderate,professional,97.0,7362.05
+63,female,26.5,5,no,southeast,moderate,unemployed,71.0,8563.41
+22,male,24.5,1,no,southwest,low,professional,50.0,6910.17
+29,female,26.7,5,yes,southwest,moderate,professional,53.0,17959.59
+33,female,20.6,4,yes,southwest,low,white collar,86.0,13509.57
+43,male,22.1,5,no,southeast,low,blue collar,69.0,7852.78
+43,female,30.8,2,yes,southeast,low,white collar,85.0,13836.3
+38,female,23.4,5,no,northeast,high,unemployed,65.0,8087.21
+56,male,21.8,5,no,northeast,low,professional,62.0,9010.26
+53,male,28.1,4,no,northwest,low,self-employed,87.0,8328.98
+50,male,30.7,3,no,northeast,moderate,self-employed,57.0,6330.57
+47,female,28.9,4,no,northwest,high,professional,77.0,7635.92
+54,female,30.0,2,no,southwest,low,white collar,67.0,8116.32
+40,female,23.0,3,no,northeast,moderate,blue collar,83.0,5791.65
+27,male,20.3,0,no,southeast,low,white collar,97.0,3433.27
+22,male,32.0,0,yes,northeast,moderate,professional,64.0,17419.27
+53,female,24.7,2,no,northwest,moderate,professional,62.0,8231.39
+51,female,25.0,4,yes,northeast,moderate,blue collar,80.0,18341.22
+48,male,31.3,1,no,southwest,moderate,unemployed,54.0,6615.23
+27,male,28.2,2,no,southeast,moderate,unemployed,94.0,4754.21
+36,male,27.8,3,yes,northwest,low,blue collar,92.0,12785.78
+49,male,34.7,3,no,southeast,moderate,unemployed,55.0,9402.56
+18,female,23.4,5,no,southeast,low,self-employed,46.0,9974.87
+22,male,29.7,0,no,northwest,moderate,unemployed,53.0,6203.91
+62,female,26.2,3,no,southeast,high,unemployed,53.0,8255.08
+21,female,27.1,2,no,southeast,high,unemployed,82.0,4675.09
+33,female,32.1,3,yes,northeast,high,self-employed,93.0,15447.31
+41,male,28.0,2,no,southeast,moderate,unemployed,82.0,6239.6
+33,male,28.2,1,no,southeast,moderate,self-employed,66.0,6666.46
+19,male,30.3,5,no,southeast,low,blue collar,75.0,7717.38
+45,male,24.5,0,yes,southeast,moderate,white collar,57.0,16351.49
+49,female,22.6,3,no,northwest,moderate,blue collar,86.0,7019.55
+44,male,21.8,2,no,southwest,moderate,white collar,76.0,6329.26
+37,male,18.1,4,no,northeast,moderate,blue collar,82.0,6684.96
+41,female,34.2,0,yes,southeast,low,white collar,59.0,15551.75
+29,male,21.6,1,no,southeast,moderate,white collar,67.0,5690.65
+52,female,25.1,2,no,northwest,high,professional,81.0,6990.3
+50,female,24.9,5,no,southwest,low,white collar,92.0,7600.05
+50,female,27.2,5,no,southeast,moderate,white collar,61.0,10550.82
+60,female,29.3,1,no,northwest,high,professional,82.0,4837.03
+54,female,29.4,1,no,northeast,moderate,unemployed,59.0,7270.06
+29,female,23.7,5,yes,northeast,moderate,unemployed,100.0,13856.76
+20,female,25.3,3,no,southeast,low,professional,64.0,7676.13
+18,female,27.1,3,no,southeast,moderate,self-employed,80.0,6599.43
+50,male,25.0,2,no,southwest,high,white collar,72.0,6824.8
+57,male,32.4,4,no,southwest,moderate,white collar,100.0,8140.88
+27,male,28.0,2,yes,southeast,moderate,professional,73.0,13649.86
+60,male,28.9,4,no,northwest,low,professional,62.0,10439.28
+61,female,28.7,1,no,southwest,low,self-employed,80.0,7243.96
+46,male,30.7,0,yes,southeast,high,unemployed,79.0,11711.22
+30,female,26.7,2,no,southwest,moderate,blue collar,68.0,7312.38
+29,male,20.8,2,no,southeast,moderate,unemployed,54.0,6895.41
+48,male,27.6,4,yes,northeast,low,white collar,62.0,17989.48
+63,male,23.4,1,no,southeast,moderate,professional,83.0,5976.28
+19,female,23.9,1,no,northeast,high,self-employed,44.0,7725.11
+52,male,28.3,4,no,southwest,moderate,unemployed,66.0,9658.15
+40,female,31.0,1,no,southeast,low,self-employed,85.0,6368.27
+34,female,26.1,5,no,southwest,moderate,unemployed,69.0,6689.31
+43,male,27.2,3,no,northeast,moderate,white collar,100.0,6161.31
+25,male,32.8,5,no,southeast,moderate,blue collar,44.0,8255.94
+46,male,27.0,0,yes,southwest,high,self-employed,56.0,12747.72
+43,female,36.4,2,no,northeast,moderate,self-employed,35.0,10265.88
+27,male,28.3,0,no,southwest,high,blue collar,100.0,2994.83
+43,female,19.0,2,no,northwest,moderate,self-employed,56.0,7886.16
+51,female,29.0,3,no,northeast,low,self-employed,40.0,12062.69
+58,male,27.5,1,no,northeast,moderate,unemployed,61.0,9214.45
+24,male,31.2,5,no,northeast,low,unemployed,49.0,9651.84
+21,female,28.7,4,no,southeast,high,blue collar,61.0,7061.25
+62,female,25.4,5,yes,southeast,moderate,white collar,71.0,16709.23
+28,female,21.1,3,yes,southeast,moderate,self-employed,82.0,13382.39
+46,male,25.2,0,no,northwest,moderate,white collar,67.0,7367.85
+53,female,22.6,4,no,northwest,low,blue collar,70.0,8893.75
+42,male,23.7,1,no,northeast,moderate,blue collar,61.0,6819.25
+38,female,28.4,3,no,northwest,moderate,unemployed,47.0,9307.47
+53,female,32.7,4,no,southwest,low,self-employed,42.0,11107.66
+27,male,27.6,3,no,northeast,moderate,professional,65.0,8013.42
+54,female,21.2,3,no,northeast,low,blue collar,71.0,8103.76
+26,male,27.8,1,yes,southwest,moderate,self-employed,63.0,16030.66
+41,male,30.8,2,yes,northeast,moderate,white collar,43.0,18072.7
+52,female,23.6,4,no,northwest,low,unemployed,73.0,9682.73
+52,male,25.5,1,no,southeast,high,white collar,94.0,4645.29
+53,male,26.1,3,no,southwest,low,blue collar,68.0,7983.15
+35,female,22.9,1,yes,northwest,low,blue collar,61.0,17921.66
+56,male,28.6,2,yes,southwest,low,white collar,69.0,15069.29
+49,male,25.5,5,no,southwest,moderate,blue collar,53.0,10162.36
+41,male,27.7,4,no,northeast,moderate,self-employed,52.0,12106.21
+40,female,22.5,2,yes,northeast,moderate,blue collar,77.0,12022.66
+49,male,24.3,0,no,northwest,low,unemployed,85.0,5637.86
+54,female,28.9,4,yes,southwest,low,self-employed,68.0,17403.25
+29,female,24.5,2,no,northeast,moderate,professional,40.0,6683.91
+30,male,32.9,3,no,northeast,high,blue collar,75.0,6804.89
+40,male,24.4,4,yes,southwest,high,blue collar,100.0,12459.49
+42,male,26.9,4,no,northwest,low,unemployed,66.0,9120.46
+52,female,29.7,1,no,northwest,moderate,unemployed,67.0,5911.16
+58,male,20.3,3,no,southwest,high,white collar,57.0,9689.8
+47,male,19.0,0,no,northwest,moderate,white collar,77.0,6307.04
+34,male,19.9,5,yes,northeast,high,white collar,60.0,14582.27
+37,male,31.1,2,no,southwest,low,unemployed,85.0,6527.64
+42,male,23.8,1,no,northeast,high,white collar,60.0,7099.98
+39,female,36.2,2,no,southeast,moderate,white collar,75.0,7311.54
+30,female,23.7,0,no,southeast,high,professional,69.0,4592.88
+36,male,26.7,0,no,northwest,moderate,white collar,93.0,4799.19
+53,male,32.2,4,no,southeast,moderate,blue collar,76.0,8493.13
+29,male,34.0,0,yes,northeast,high,unemployed,91.0,11917.77
+58,male,34.2,2,yes,southeast,low,self-employed,72.0,14924.23
+36,female,30.8,3,no,northeast,moderate,professional,67.0,7145.69
+29,male,30.1,3,no,northwest,moderate,unemployed,69.0,6571.72
+26,female,28.4,4,no,northwest,moderate,unemployed,58.0,8706.74
+24,female,29.1,5,no,northeast,high,blue collar,78.0,7711.14
+45,male,23.8,2,no,southeast,low,white collar,60.0,7019.2
+31,female,22.7,2,yes,northwest,moderate,blue collar,72.0,13951.71
+48,female,26.0,0,no,southwest,moderate,white collar,83.0,5660.55
+36,female,25.3,2,no,northwest,low,white collar,94.0,5852.39
+64,female,24.2,1,no,southeast,moderate,unemployed,72.0,7177.39
+33,male,28.8,5,no,southwest,low,white collar,83.0,6600.6
+22,male,29.8,0,no,southeast,moderate,professional,81.0,4197.55
+52,female,26.4,1,no,northeast,high,professional,64.0,7303.11
+29,male,31.9,4,no,southwest,moderate,professional,100.0,5975.01
+42,male,21.4,3,no,southeast,moderate,unemployed,61.0,7996.88
+38,male,25.2,4,no,southwest,high,blue collar,71.0,7697.23
+53,male,23.1,3,no,southeast,moderate,self-employed,92.0,6765.38
+40,male,18.5,4,no,southwest,high,white collar,91.0,5747.37
+33,female,25.7,2,no,southeast,moderate,self-employed,70.0,6565.4
+56,male,25.5,1,no,northeast,high,blue collar,85.0,7231.71
+62,male,32.1,3,no,southwest,low,blue collar,67.0,10991.38
+59,male,28.5,0,yes,southwest,high,unemployed,63.0,13732.39
+56,male,21.9,1,no,southwest,low,professional,52.0,7964.65
+31,female,33.4,0,no,southwest,moderate,professional,81.0,5833.17
+48,female,30.9,1,no,northeast,moderate,blue collar,82.0,6114.66
+22,female,28.3,1,no,southwest,moderate,unemployed,61.0,5921.38
+52,female,25.1,4,no,northwest,moderate,unemployed,74.0,8282.68
+40,male,22.2,3,no,northeast,moderate,white collar,100.0,4871.19
+46,female,24.5,3,yes,northwest,moderate,professional,87.0,13179.84
+60,male,30.4,1,no,southwest,low,blue collar,56.0,7807.01
+28,male,33.5,2,no,southeast,low,self-employed,85.0,7799.95
+35,male,32.2,2,no,northwest,low,professional,57.0,7504.55
+64,male,24.0,0,no,southwest,moderate,white collar,27.0,8282.66
+29,male,21.5,0,no,northwest,low,unemployed,70.0,5667.17
+26,female,26.6,4,yes,southwest,moderate,blue collar,93.0,11455.45
+27,female,18.9,1,no,southwest,moderate,professional,91.0,4634.35
+61,female,27.3,0,no,southwest,low,self-employed,76.0,6215.35
+34,female,25.4,0,yes,southeast,moderate,white collar,62.0,14265.7
+55,male,24.1,5,yes,northwest,high,white collar,77.0,15165.52
+24,female,19.6,1,yes,northeast,low,professional,66.0,12952.87
+63,male,28.1,4,no,northeast,moderate,self-employed,62.0,10735.07
+30,female,23.9,0,yes,northeast,moderate,white collar,86.0,13600.43
+57,male,21.3,4,no,northeast,moderate,blue collar,62.0,9701.8
+59,male,15.0,3,no,southwest,moderate,white collar,87.0,7145.35
+26,female,25.9,4,no,northwest,moderate,self-employed,61.0,8841.86
+44,male,33.1,2,no,northwest,moderate,unemployed,100.0,6457.8
+19,male,32.6,2,no,southeast,low,unemployed,45.0,7647.96
+22,female,24.2,4,no,northwest,moderate,professional,56.0,7684.58
+46,male,23.6,2,no,northwest,moderate,self-employed,68.0,8843.24
+54,female,27.9,3,no,northwest,low,white collar,40.0,9017.77
+55,female,22.0,1,no,southeast,moderate,white collar,31.0,9538.6
+36,female,27.2,2,no,northeast,high,unemployed,40.0,8518.13
+25,male,29.1,2,no,northwest,moderate,unemployed,66.0,7734.87
+62,male,30.9,4,no,southeast,moderate,blue collar,66.0,9546.57
+18,male,25.6,3,yes,southeast,high,unemployed,75.0,14454.56
+39,female,25.2,1,yes,southwest,moderate,blue collar,67.0,11984.04
+34,male,22.5,4,no,southeast,moderate,white collar,74.0,7549.77
+24,female,22.7,4,no,northeast,moderate,blue collar,63.0,8549.99
+42,female,25.1,5,no,northwest,high,blue collar,81.0,9031.21
+62,male,27.5,3,no,southeast,moderate,professional,79.0,7944.57
+21,female,29.7,1,no,northeast,moderate,unemployed,65.0,5505.12
+53,male,22.8,3,no,southeast,moderate,blue collar,78.0,6549.21
+23,male,32.0,1,no,southeast,high,white collar,67.0,4771.04
+48,male,24.9,3,no,southeast,moderate,self-employed,47.0,9425.8
+36,male,25.9,4,no,southeast,low,blue collar,84.0,5691.51
+61,male,23.0,4,no,southeast,high,unemployed,56.0,8170.13
+56,female,16.3,0,yes,northeast,moderate,professional,83.0,14478.46
+44,female,29.5,2,yes,northwest,low,white collar,75.0,15151.14
+27,female,28.9,5,no,northwest,moderate,professional,69.0,7314.79
+43,male,24.9,3,no,northwest,moderate,self-employed,42.0,8722.31
+36,male,26.3,5,no,northwest,high,blue collar,93.0,6196.26
+56,male,28.1,0,yes,northeast,low,blue collar,65.0,15010.99
+20,female,19.7,2,no,southwest,high,unemployed,80.0,5579.71
+62,male,23.9,3,no,southwest,moderate,blue collar,68.0,9180.08
+30,female,29.2,1,no,northeast,low,white collar,66.0,6434.94
+45,female,21.0,2,no,northeast,high,self-employed,73.0,8126.5
+37,male,27.2,4,no,southeast,moderate,professional,70.0,8316.98
+45,male,20.6,0,no,southeast,low,self-employed,66.0,7526.31
+25,female,27.9,2,no,southeast,moderate,blue collar,69.0,5718.16
+58,male,25.9,2,yes,northwest,high,professional,76.0,14189.34
+56,female,19.5,4,yes,southeast,moderate,unemployed,77.0,15651.44
+18,male,30.7,3,no,southwest,low,self-employed,71.0,7802.01
+20,male,23.1,1,no,northwest,low,professional,79.0,5302.64
+30,female,22.8,4,no,southeast,low,professional,64.0,6849.4
+45,male,26.8,1,no,northwest,moderate,professional,100.0,4510.72
+42,female,30.6,3,no,southwest,moderate,white collar,92.0,5947.14
+50,male,21.9,2,no,southeast,low,self-employed,81.0,6775.64
+55,female,26.2,1,no,southwest,low,professional,41.0,8224.6
+23,female,27.7,0,no,southwest,moderate,self-employed,79.0,5842.68
+61,male,28.8,0,no,southwest,high,professional,65.0,6663.92
+62,female,26.7,4,no,southeast,moderate,unemployed,55.0,8555.82
+49,male,24.5,3,no,northeast,high,unemployed,65.0,8040.83
+62,male,22.7,4,no,southeast,moderate,unemployed,57.0,10907.67
+64,male,26.3,4,yes,southwest,low,blue collar,78.0,16399.64
+38,female,21.7,5,no,southeast,high,professional,94.0,5045.35
+33,female,15.0,4,no,southwest,moderate,blue collar,82.0,7082.3
+38,male,27.7,5,yes,northeast,moderate,self-employed,100.0,16347.36
+28,male,29.6,0,no,northwest,high,blue collar,47.0,6407.23
+54,female,16.5,0,no,northeast,low,self-employed,62.0,8020.27
+53,male,22.0,4,yes,northeast,low,self-employed,56.0,16960.58
+52,male,28.5,0,no,northwest,moderate,self-employed,88.0,7599.88
+36,female,34.2,3,no,southeast,low,blue collar,67.0,6602.81
+37,male,26.1,5,yes,northwest,low,professional,73.0,16087.12
+35,female,23.1,5,no,southeast,low,blue collar,80.0,7299.08
+64,male,25.3,4,no,southeast,low,professional,48.0,11070.51
+58,female,31.5,0,yes,southwest,moderate,professional,61.0,17246.74
+31,male,23.4,1,no,southwest,low,self-employed,85.0,5766.23
+32,male,22.8,5,no,northwest,moderate,blue collar,62.0,8765.95
+48,female,24.1,4,yes,northeast,moderate,professional,44.0,18397.6
+18,male,22.2,4,yes,northwest,moderate,unemployed,56.0,17132.66
+20,female,26.5,3,no,southeast,low,professional,66.0,7281.6
+33,male,32.5,2,no,southwest,moderate,unemployed,73.0,6055.42
+40,female,27.3,2,no,northwest,low,blue collar,69.0,7671.86
+28,female,25.0,5,no,northwest,moderate,blue collar,61.0,8773.85
+29,female,24.8,3,no,southwest,high,blue collar,84.0,5485.67
+27,female,19.7,3,no,southwest,moderate,professional,68.0,6898.56
+49,male,29.5,3,no,southwest,moderate,white collar,73.0,7214.54
+33,male,25.7,5,no,southeast,moderate,professional,62.0,8380.26
+25,female,25.3,2,no,southwest,moderate,professional,93.0,4149.12
+55,female,38.8,3,yes,northeast,high,self-employed,64.0,17174.14
+29,female,27.2,0,yes,northwest,high,self-employed,71.0,15144.86
+41,male,23.0,4,no,southwest,moderate,professional,86.0,6108.64
+45,male,24.3,4,no,southwest,moderate,unemployed,74.0,7800.23
+25,male,30.6,1,no,southeast,high,self-employed,74.0,5723.02
+45,male,26.5,1,no,southeast,high,professional,40.0,8438.45
+53,female,20.2,5,no,northwest,moderate,white collar,80.0,9104.72
+43,female,29.7,5,no,northeast,moderate,unemployed,71.0,8114.71
+25,female,23.3,4,no,northwest,low,blue collar,78.0,6990.38
+45,male,33.5,0,no,southwest,high,professional,73.0,4968.97
+45,male,30.3,2,no,northeast,low,professional,62.0,8004.25
+54,male,24.2,2,no,northeast,moderate,unemployed,83.0,6067.25
+58,female,31.1,5,no,northeast,low,self-employed,73.0,10338.83
+53,female,26.3,0,no,northeast,low,self-employed,51.0,8145.01
+44,male,29.4,5,no,northwest,moderate,self-employed,90.0,7846.1
+34,female,27.9,2,no,southeast,high,blue collar,49.0,7887.35
+26,male,22.6,5,no,southeast,low,unemployed,84.0,5844.94
+50,male,23.4,3,yes,southwest,moderate,unemployed,92.0,12922.82
+37,female,30.1,5,no,southeast,low,self-employed,53.0,9134.36
+30,male,24.7,4,no,southeast,low,self-employed,68.0,7805.48
+45,female,24.4,5,no,southeast,moderate,white collar,67.0,7572.27
+46,male,22.2,4,no,southeast,moderate,white collar,67.0,7568.07
+30,female,27.7,0,no,southwest,low,professional,97.0,4172.37
+63,female,34.3,2,no,northwest,moderate,professional,54.0,10680.53
+52,female,21.7,1,no,northeast,low,unemployed,65.0,7912.87
+23,male,26.1,1,no,southeast,moderate,unemployed,93.0,3155.8
+35,male,31.6,2,no,northwest,high,blue collar,65.0,7390.7
+22,female,25.7,1,no,southeast,high,blue collar,56.0,5847.46
+64,female,27.8,5,no,southeast,moderate,white collar,74.0,8310.46
+42,male,21.8,0,yes,northeast,moderate,professional,82.0,15984.73
+19,male,27.7,0,no,northeast,high,white collar,64.0,5377.52
+27,male,25.3,2,no,northeast,low,white collar,78.0,5939.27
+47,female,29.9,1,no,southeast,high,professional,49.0,6864.94
+62,male,30.7,5,yes,southeast,high,blue collar,50.0,21019.21
+22,male,36.4,0,no,southeast,low,professional,63.0,6617.39
+50,female,28.3,0,no,northeast,low,self-employed,79.0,7210.8
+18,male,27.3,3,yes,southwest,high,self-employed,81.0,14051.08
+35,male,26.8,3,no,northwest,moderate,self-employed,52.0,11134.31
+49,male,24.6,0,no,southwest,low,unemployed,81.0,5380.92
+64,female,27.4,2,no,southeast,low,blue collar,72.0,7881.32
+28,female,24.8,4,no,southeast,moderate,blue collar,57.0,7014.24
+38,female,26.7,4,yes,southwest,moderate,unemployed,50.0,15665.12
+43,female,31.3,5,no,southeast,moderate,white collar,73.0,7318.38
+42,female,22.0,0,yes,northwest,high,self-employed,89.0,12635.24
+39,female,30.6,0,no,southeast,low,self-employed,71.0,5421.81
+44,female,31.3,0,no,northwest,moderate,white collar,56.0,7682.36
+30,male,25.5,2,no,southwest,moderate,professional,42.0,7719.13
+50,male,17.5,3,yes,southwest,moderate,professional,93.0,14897.9
+51,female,23.6,0,no,southeast,low,blue collar,86.0,5520.9
+58,male,31.2,0,no,northwest,high,unemployed,75.0,6536.58
+52,male,25.9,1,no,southeast,high,blue collar,92.0,6158.14
+18,female,22.0,2,no,northeast,moderate,professional,73.0,5492.58
+38,male,24.0,5,no,northeast,moderate,white collar,62.0,8942.17
+23,male,29.4,0,no,northeast,low,blue collar,78.0,5187.86
+45,male,28.2,1,no,northeast,moderate,self-employed,58.0,9192.14
+34,male,25.0,4,no,southeast,moderate,self-employed,55.0,9238.21
+22,male,24.5,5,yes,northeast,moderate,white collar,82.0,15628.49
+48,female,24.4,0,no,northwest,high,professional,83.0,4939.08
+22,female,22.3,0,no,southwest,moderate,self-employed,51.0,5928.26
+55,female,32.5,1,no,southwest,moderate,self-employed,51.0,8038.13
+20,male,24.7,2,no,northeast,moderate,unemployed,63.0,4702.58
+40,female,30.9,0,yes,northeast,low,blue collar,59.0,15626.99
+54,male,32.1,4,no,northeast,moderate,professional,77.0,8735.32
+54,male,30.0,0,yes,southeast,moderate,blue collar,71.0,14818.68
+27,male,24.3,4,yes,southwest,moderate,professional,87.0,14250.39
+27,male,27.6,5,no,northeast,moderate,self-employed,75.0,8704.37
+36,female,25.9,5,yes,northwest,moderate,unemployed,60.0,18934.65
+34,female,22.4,3,no,northeast,moderate,blue collar,42.0,8706.35
+38,male,27.3,3,yes,southwest,moderate,self-employed,73.0,16696.97
+31,female,21.3,4,no,northeast,moderate,professional,44.0,8776.47
+26,male,30.8,2,no,southwest,high,blue collar,60.0,6776.32
+63,female,24.1,0,no,northeast,low,blue collar,59.0,7008.29
+18,female,26.8,0,no,northwest,low,self-employed,62.0,5223.96
+62,male,27.1,3,no,northeast,moderate,blue collar,50.0,11743.46
+30,female,25.0,4,no,northwest,low,unemployed,59.0,9646.59
+21,male,28.3,0,no,northwest,low,unemployed,87.0,3463.43
+18,female,24.1,0,no,northeast,moderate,self-employed,87.0,4932.12
+57,male,29.5,2,no,northwest,moderate,professional,93.0,7003.44
+49,male,20.6,1,no,southeast,moderate,self-employed,70.0,7881.38
+51,female,26.5,3,no,northeast,high,unemployed,74.0,8745.71
+45,female,33.8,3,no,northeast,moderate,white collar,87.0,6757.57
+48,male,22.0,1,no,northwest,high,white collar,48.0,6834.16
+25,female,23.3,0,no,northwest,low,blue collar,82.0,4949.42
+56,female,28.1,2,no,northeast,moderate,blue collar,90.0,6235.13
+43,male,26.7,2,no,southeast,high,white collar,57.0,5027.25
+51,male,27.4,3,no,northwest,moderate,unemployed,91.0,6743.2
+20,female,28.0,2,no,northwest,moderate,blue collar,100.0,4994.47
+29,male,28.5,5,no,southwest,moderate,self-employed,82.0,7734.14
+18,male,30.4,1,yes,southeast,low,self-employed,79.0,14480.57
+61,male,27.6,0,no,southeast,moderate,unemployed,53.0,7651.13
+22,female,25.0,5,no,northeast,moderate,blue collar,86.0,6191.38
+47,female,28.7,1,no,southeast,high,self-employed,55.0,7752.38
+47,male,33.6,4,no,northeast,low,blue collar,76.0,7686.68
+34,female,25.5,3,no,southwest,high,blue collar,77.0,5835.17
+64,male,22.1,2,no,southeast,high,self-employed,21.0,10804.24
+40,female,30.4,4,no,northwest,low,white collar,76.0,7879.09
+32,male,25.5,2,no,southwest,moderate,self-employed,100.0,4789.99
+54,male,17.3,5,no,northeast,high,unemployed,39.0,9222.89
+38,female,29.4,0,no,southwest,high,professional,69.0,5505.66
+31,male,23.9,0,no,northeast,moderate,self-employed,41.0,8553.64
+19,female,25.6,0,no,southwest,moderate,blue collar,57.0,5092.38
+28,female,27.3,2,no,northeast,moderate,blue collar,41.0,7745.66
+56,male,26.8,4,yes,southeast,moderate,self-employed,72.0,18692.48
+55,male,28.8,0,no,northwest,low,professional,82.0,6044.3
+51,female,24.3,4,yes,northeast,moderate,self-employed,76.0,20111.86
+55,male,28.1,2,no,southwest,low,professional,56.0,7226.7
+51,male,25.0,5,no,northeast,low,professional,61.0,10938.01
+35,male,29.0,4,no,northeast,moderate,unemployed,74.0,7851.68
+47,male,28.5,5,no,northeast,moderate,blue collar,57.0,11913.72
+32,male,22.3,2,no,southwest,moderate,blue collar,50.0,6392.76
+44,female,30.3,2,no,northwest,moderate,professional,66.0,5872.14
+51,female,23.9,3,no,southeast,moderate,blue collar,56.0,9393.29
+55,male,29.2,2,no,northwest,low,white collar,76.0,6439.14
+50,male,27.5,2,no,northeast,moderate,professional,89.0,7165.65
+41,male,33.4,1,no,southwest,high,blue collar,100.0,5624.62
+32,female,25.1,0,no,northwest,moderate,white collar,75.0,5449.37
+47,male,24.6,3,no,northeast,moderate,unemployed,80.0,7418.33
+59,female,25.9,3,yes,southeast,moderate,blue collar,61.0,17161.55
+34,female,24.8,3,no,southeast,high,white collar,62.0,7261.07
+22,female,29.2,1,no,southeast,low,self-employed,89.0,5558.21
+46,male,19.5,5,no,northeast,moderate,self-employed,66.0,8695.58
+21,female,21.8,2,yes,southwest,moderate,white collar,71.0,15845.5
+27,male,21.7,0,no,northwest,moderate,professional,88.0,4673.77
+34,female,29.8,4,yes,southeast,low,professional,66.0,16618.98
+27,male,32.8,5,no,northeast,moderate,blue collar,93.0,7883.29
+34,female,25.6,2,no,northeast,low,self-employed,79.0,8199.61
+37,male,25.3,1,no,northwest,moderate,professional,77.0,6852.31
+41,female,26.3,2,no,southeast,moderate,professional,60.0,7345.51
+22,male,30.6,2,no,northeast,low,self-employed,78.0,6966.69
+51,male,22.3,1,yes,northwest,high,unemployed,64.0,15560.87
+23,male,27.0,3,yes,southwest,low,professional,77.0,15762.09
+19,male,29.9,3,no,southwest,high,white collar,68.0,5021.37
+30,female,28.0,0,no,southwest,moderate,blue collar,85.0,4630.18
+60,female,26.8,0,no,southeast,low,professional,70.0,6288.44
+60,male,30.0,3,yes,northwest,low,professional,100.0,18250.87
+28,female,15.2,5,no,northwest,high,unemployed,66.0,7982.83
+64,male,28.7,4,yes,northeast,low,white collar,62.0,16963.63
+40,male,23.4,2,yes,northeast,low,blue collar,75.0,15695.22
+33,female,18.7,4,no,northeast,moderate,professional,86.0,7056.49
+48,male,28.0,2,no,northwest,moderate,blue collar,86.0,6592.67
+28,male,31.5,3,yes,northeast,moderate,self-employed,73.0,13064.29
+33,female,25.5,0,no,northwest,low,professional,75.0,5205.97
+25,male,29.8,5,yes,northwest,low,professional,75.0,15676.68
+21,male,32.4,0,no,southwest,low,self-employed,54.0,5759.97
+57,male,31.3,4,no,northeast,low,unemployed,85.0,7963.25
+21,male,32.6,0,yes,southwest,moderate,professional,51.0,13509.18
+42,female,29.0,3,no,southeast,moderate,blue collar,54.0,7376.45
+20,female,26.3,5,no,southeast,low,white collar,71.0,7594.51
+49,female,19.6,4,no,southeast,moderate,blue collar,65.0,7569.46
+20,male,25.0,5,no,northwest,moderate,unemployed,82.0,6860.12
+44,male,22.6,2,yes,northwest,high,white collar,77.0,13939.68
+46,female,34.7,0,yes,northwest,high,blue collar,72.0,14762.52
+49,male,25.3,5,no,northeast,high,blue collar,53.0,11142.14
+36,male,26.5,1,no,southwest,low,self-employed,70.0,7023.98
+38,male,28.2,0,yes,northwest,low,unemployed,69.0,14574.11
+22,male,26.2,2,no,southwest,moderate,self-employed,73.0,5863.96
+35,female,32.8,5,yes,southwest,low,white collar,64.0,17756.3
+45,female,23.5,4,no,southwest,moderate,self-employed,78.0,8731.78
+59,female,26.8,2,no,northeast,moderate,unemployed,65.0,8494.96
+39,male,23.0,1,yes,northeast,high,professional,76.0,12351.11
+38,female,20.7,5,no,southeast,high,professional,82.0,6778.62
+23,female,23.6,3,no,southeast,moderate,white collar,62.0,7374.66
+18,male,25.9,0,no,southwest,moderate,professional,58.0,4842.37
+22,male,24.3,4,no,southeast,moderate,self-employed,77.0,8272.54
+58,female,23.2,3,no,southwest,low,white collar,50.0,8508.24
+29,female,20.4,5,no,northeast,moderate,unemployed,87.0,7103.75
+43,female,25.7,5,no,northeast,low,white collar,70.0,8586.23
+63,female,20.0,2,no,northeast,moderate,white collar,68.0,7461.48
+51,male,29.0,5,no,northwest,moderate,blue collar,78.0,8023.39
+31,female,26.3,4,no,southwest,moderate,blue collar,77.0,6321.11
+43,female,20.2,3,yes,northeast,moderate,white collar,70.0,15780.24
+62,male,24.8,4,no,southwest,moderate,professional,83.0,8875.69
+44,female,23.0,1,no,southeast,high,blue collar,60.0,6554.05
+26,male,27.3,1,no,southeast,low,unemployed,81.0,4833.81
+43,male,31.4,0,no,northeast,moderate,self-employed,54.0,9114.04
+64,male,18.5,0,no,southwest,moderate,blue collar,78.0,6426.46
+39,female,26.5,1,no,northeast,moderate,white collar,65.0,6241.71
+64,female,25.4,5,no,southeast,high,professional,50.0,9092.28
+47,male,28.7,4,yes,northeast,low,self-employed,74.0,19441.52
+60,female,26.9,1,no,southwest,moderate,blue collar,69.0,6914.48
+34,female,23.0,0,no,southeast,moderate,professional,47.0,6171.03
+43,male,24.7,1,no,northwest,high,professional,38.0,7607.99
+53,male,22.8,5,yes,southeast,low,professional,68.0,19232.34
+18,female,30.3,1,no,northwest,moderate,white collar,94.0,3921.64
+25,male,26.1,4,no,northeast,moderate,unemployed,75.0,7583.42
+52,female,33.6,3,yes,northeast,low,professional,60.0,17311.72
+32,female,25.8,5,no,southwest,moderate,self-employed,86.0,6769.55
+64,female,23.2,0,no,northwest,moderate,blue collar,84.0,6380.56
+39,female,19.9,4,no,northeast,moderate,self-employed,89.0,7874.09
+31,male,18.8,1,no,northwest,high,white collar,80.0,5090.69
+43,male,19.7,1,no,northeast,moderate,white collar,83.0,5817.41
+45,male,27.1,3,yes,southeast,moderate,self-employed,81.0,15097.77
+40,male,28.0,0,no,northeast,moderate,unemployed,63.0,5759.37
+31,female,19.7,0,no,southwest,low,white collar,45.0,6406.87
+41,female,29.6,2,no,southeast,low,white collar,62.0,7431.37
+19,male,24.1,0,yes,southwest,moderate,self-employed,87.0,10671.76
+62,female,26.6,3,yes,southeast,moderate,white collar,64.0,18417.47
+43,female,32.4,2,no,northwest,low,unemployed,68.0,4935.55
+31,female,29.6,2,no,southwest,moderate,unemployed,53.0,6851.17
+24,male,24.9,1,no,northeast,moderate,unemployed,62.0,6279.65
+20,male,22.4,1,no,northwest,low,blue collar,70.0,5450.06
+64,male,17.4,0,yes,northeast,moderate,unemployed,77.0,11614.39
+40,female,23.1,2,yes,southeast,low,unemployed,63.0,14805.4
+63,male,25.2,1,no,southeast,high,blue collar,62.0,7474.73
+60,male,22.1,3,no,northeast,high,professional,83.0,6859.74
+64,male,25.5,1,yes,northeast,moderate,white collar,75.0,14075.75
+62,male,26.3,5,no,northwest,low,unemployed,77.0,10250.14
+35,male,25.1,5,no,northeast,moderate,white collar,93.0,7082.38
+55,male,23.4,1,no,southwest,high,self-employed,62.0,6580.78
+52,female,26.7,2,no,southwest,moderate,white collar,69.0,7367.13
+32,female,27.8,2,no,northeast,low,blue collar,78.0,5895.16
+42,male,21.6,4,no,southwest,moderate,white collar,57.0,7518.57
+54,male,31.6,5,no,northeast,high,white collar,73.0,9147.3
+45,female,25.6,3,no,northwest,moderate,white collar,70.0,7729.93
+27,female,26.1,2,no,southwest,moderate,professional,100.0,4366.81
+56,male,28.8,0,no,southwest,moderate,professional,71.0,6124.78
+34,male,26.9,5,no,northeast,moderate,self-employed,87.0,8043.09
+56,male,29.8,3,no,southwest,low,blue collar,82.0,6914.55
+39,male,27.1,3,no,southeast,moderate,white collar,53.0,8538.54
+43,female,23.6,2,yes,northwest,low,white collar,47.0,13826.52
+61,male,27.4,3,no,northwest,moderate,white collar,74.0,8051.28
+42,male,21.4,2,no,southwest,low,white collar,89.0,4910.84
+34,male,26.4,1,no,southwest,moderate,professional,74.0,6233.52
+30,male,25.9,5,no,southeast,low,self-employed,71.0,8342.82
+37,female,25.2,4,yes,southeast,moderate,unemployed,66.0,13817.45
+42,female,25.5,1,no,southwest,moderate,blue collar,50.0,7693.23
+21,female,18.5,5,yes,southwest,low,white collar,56.0,12217.29
+27,male,23.8,2,no,southeast,low,self-employed,46.0,8378.92
+20,male,26.4,5,no,northeast,low,unemployed,53.0,9422.84
+58,female,26.6,2,no,southeast,high,self-employed,62.0,8550.82
+62,male,21.9,1,no,northeast,moderate,professional,82.0,6835.31
+35,male,31.1,0,no,northwest,moderate,unemployed,63.0,5447.36
+64,female,22.5,0,no,northwest,low,self-employed,74.0,8976.84
+53,female,29.9,5,no,southeast,moderate,professional,72.0,9561.49
+64,female,27.7,0,no,northeast,high,self-employed,77.0,6969.21
+39,female,23.4,2,no,southeast,high,self-employed,54.0,7364.37
+51,male,33.1,3,no,southeast,moderate,unemployed,86.0,8132.78
+64,male,21.2,2,no,northeast,low,professional,49.0,10163.01
+25,female,29.7,3,no,southeast,low,white collar,63.0,5502.99
+57,male,30.0,1,no,northwest,low,blue collar,70.0,7500.29
+61,female,23.3,4,no,southwest,low,unemployed,81.0,7911.63
+36,female,31.6,3,no,southwest,low,professional,91.0,6630.22
+59,male,25.0,0,no,southeast,low,self-employed,82.0,6954.2
+58,female,27.2,2,no,northeast,moderate,professional,91.0,6688.54
+54,male,27.0,1,no,northeast,high,blue collar,58.0,7735.55
+23,male,25.5,0,no,northwest,moderate,blue collar,88.0,4155.22
+43,male,29.2,1,no,northeast,high,white collar,85.0,7377.8
+51,male,29.2,4,yes,northeast,moderate,white collar,34.0,18473.98
+62,female,19.0,2,no,northwest,low,blue collar,67.0,8537.43
+23,male,31.2,5,yes,southeast,moderate,unemployed,79.0,17574.73
+54,female,19.4,2,no,southwest,low,unemployed,62.0,6649.46
+50,female,30.1,4,no,northwest,moderate,self-employed,54.0,10107.61
+39,female,30.5,2,no,southeast,moderate,white collar,100.0,4479.95
+38,female,21.6,5,no,northwest,high,self-employed,72.0,9465.16
+23,male,24.4,3,no,southeast,low,white collar,72.0,5845.98
+23,male,21.6,1,no,northwest,low,blue collar,50.0,7353.17
+21,female,25.1,5,no,southeast,high,unemployed,61.0,7460.72
+47,female,24.8,0,yes,northwest,low,unemployed,57.0,16278.36
+28,male,29.1,4,yes,southeast,moderate,blue collar,86.0,14944.82
+47,female,31.2,3,no,northwest,moderate,self-employed,78.0,8397.55
+48,male,31.6,0,no,southwest,high,self-employed,61.0,6253.91
+41,female,23.8,0,no,southwest,high,professional,78.0,5559.59
+26,male,25.2,4,no,northeast,high,white collar,66.0,8100.41
+20,female,19.3,3,no,southeast,low,self-employed,74.0,6252.87
+48,female,22.8,0,no,northwest,high,blue collar,73.0,6495.21
+57,male,29.9,0,no,southeast,moderate,self-employed,76.0,6136.6
+54,female,32.5,3,no,southwest,moderate,unemployed,74.0,8060.71
+53,female,21.1,2,no,southeast,low,white collar,76.0,7234.55
+41,male,23.6,0,no,northwest,moderate,professional,89.0,5074.1
+48,female,25.9,1,no,southeast,high,white collar,80.0,5552.29
+23,male,27.1,3,no,northwest,high,unemployed,65.0,7051.33
+19,male,22.8,0,no,southwest,moderate,unemployed,69.0,4351.86
+37,female,27.7,4,no,southwest,low,unemployed,88.0,6107.78
+45,female,24.1,5,no,southwest,moderate,unemployed,72.0,7064.86
+28,female,25.9,1,no,northeast,high,blue collar,64.0,5765.54
+21,female,28.2,5,no,southwest,moderate,professional,61.0,6795.46
+32,female,26.0,5,no,southeast,moderate,unemployed,74.0,7024.51
+23,female,24.3,0,yes,northeast,low,unemployed,57.0,13253.31
+47,female,25.6,1,yes,southwest,moderate,self-employed,89.0,15449.87
+55,male,25.6,1,no,southeast,moderate,professional,54.0,7806.94
+19,female,24.5,2,no,southeast,high,white collar,92.0,4956.17
+32,male,25.0,5,yes,southeast,moderate,professional,66.0,12778.26
+28,female,32.4,1,no,northwest,moderate,professional,54.0,7611.27
+25,female,28.2,2,no,northeast,moderate,professional,73.0,6015.52
+43,male,24.8,3,no,southeast,low,unemployed,56.0,7189.95
+62,female,28.8,2,no,northwest,high,unemployed,71.0,7627.23
+61,female,24.7,4,no,southwest,moderate,blue collar,61.0,9004.8
+22,male,30.7,0,no,southeast,moderate,white collar,84.0,4364.66
+23,female,27.5,3,yes,northwest,moderate,self-employed,72.0,15590.99
+43,female,25.6,3,yes,southeast,moderate,professional,52.0,15124.2
+21,female,27.8,4,no,northeast,moderate,white collar,61.0,7647.32
+36,male,19.7,2,yes,northeast,moderate,white collar,81.0,13825.04
+37,female,21.5,0,no,southwest,low,blue collar,89.0,4171.03
+50,female,21.2,2,no,southeast,moderate,self-employed,69.0,7752.41
+37,female,26.6,1,no,northwest,low,professional,54.0,7724.36
+29,female,32.9,2,yes,southwest,moderate,self-employed,86.0,14735.75
+64,male,34.9,3,no,southeast,low,blue collar,81.0,9224.97
+18,male,28.6,0,no,southwest,moderate,unemployed,90.0,3126.26
+43,female,28.0,2,no,northwest,high,white collar,74.0,6758.04
+31,female,18.8,0,yes,southwest,high,professional,62.0,13510.35
+55,male,23.8,0,no,southwest,moderate,unemployed,78.0,5823.73
+54,male,22.8,1,no,southwest,moderate,blue collar,75.0,6571.19
+28,female,23.5,1,no,southeast,low,self-employed,61.0,8462.38
+53,male,25.3,3,no,northwest,moderate,white collar,73.0,8777.0
+30,female,24.1,4,yes,northeast,high,professional,67.0,16009.33
+60,male,18.1,0,yes,southeast,low,unemployed,81.0,12925.71
+20,male,29.0,4,no,northeast,moderate,unemployed,77.0,6358.52
+50,male,21.7,3,no,northeast,high,white collar,54.0,9757.26
+23,male,27.0,0,no,southeast,high,self-employed,53.0,5756.61
+27,female,34.3,0,no,southeast,low,blue collar,69.0,5959.57
+22,male,22.3,5,yes,northwest,moderate,self-employed,70.0,16134.68
+40,male,15.9,4,no,northwest,low,self-employed,81.0,8864.54
+27,female,24.9,2,no,southwest,low,self-employed,78.0,6264.0
+61,male,30.4,1,no,northeast,high,white collar,92.0,6238.41
+19,male,33.8,2,no,northwest,high,white collar,63.0,6384.06
